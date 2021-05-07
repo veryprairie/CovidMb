@@ -1,0 +1,19 @@
+{
+  "name": "discordbot2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "mongoose": "^5.12.5",
+    "process": "^0.11.10",
+    "request": "^2.88.2"
+  }
+}
